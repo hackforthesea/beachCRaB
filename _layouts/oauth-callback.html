@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Nothing to see here</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="{{ '/assets/js/utils.js' | relative_url }}"></script>
+    <script>
+      $.ajax({
+        url: "https://hackforthesea.tech/oauth/token/",
+        method: "POST",
+        data: {
+          grant_type: "authorization_code",
+          code: getQueryString("code"),
+          client_id: "XiTtPHTrg0EU1uOUqwAmOYFnvFJo4PYzGrP7sHuP",
+          client_secret: "0QnhZTFJBptVHDEpg62MiImJwzjnjdPx2TiObdJufDaFk5QJg9Ra9W6gGK8Z36XJBGbbOwT6u4IJ9HR8ZGaJZcnSzU9uWjMXdZ3iHZC743nyqIAeyWS0KRcQKH5ufgUf",
+          redirect_uri: "http://gatsby-sites-aphelionz.c9users.io/oauth-callback"
+        },
+        success: function(res) {
+          setCookie('h4ts_access_token', res.access_token);
+          setCookie('h4ts_token_type', res.token_type);
+          setCookie('h4ts_expires_in', res.expires_in);
+          setCookie('h4ts_refresh_token', res.refresh_token);
+          setCookie('h4ts_scope', res.scope);
+          window.location = "/app";
+        }
+      })
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
