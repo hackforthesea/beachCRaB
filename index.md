@@ -4,7 +4,7 @@ navigation_weight: 1
 ---
 
 <center>
-Attention: This is a proof of concept site for Hack for the sea 2017. You can find more informaiton here.
+Attention: This is a proof of concept site for Hack for the sea 2017. You can find more information here.
 https://devpost.com/software/beachcrab
 <br/>
 We all can do our part to make our beaches clean.
@@ -19,13 +19,13 @@ We have collected  of [total lbs from database] lbs trash.
 
 notes: display data frm latest report
 
-Name
-Date
-Organization
-Event
-Project
-Location
-GPS
+1. Name
+2. Date
+3. Organization
+4. Event
+5. Project
+6. Location
+7. GPS
 
 ## Latest Data
 
