@@ -1,6 +1,6 @@
 ---
 title: About
-navigation_weight: 1
+navigation_weight: 5
 ---
 
 <center>
