@@ -23,10 +23,25 @@ Leave the beach better then you found it! Ask yourself what is the one thing you
 
 ## Latest Report
 
-Thank you (name) !
+Thank you [name from latest report] !
+We have collected  of [total lbs from database] lbs trash.
 
-![Report Info](reportinfo.png)
-![Report 1](report1.png)
+notes: display data frm latest report
+
+Name
+Date
+Organization
+Event
+Project
+Location
+GPS
+
+Latest Data
+
+Notes: Graph chart or plugin
+
+
+
 <center>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Caracangrejo.png" width="150px" />
 </center>
