@@ -15,7 +15,7 @@ It's as simple as being a *C.R.a.B*!
 ## Latest Report
 
 Thank you [name from latest report] !
-We have collected  of [total lbs from database] lbs trash.
+We have collected [total lbs from database] lbs trash.
 
 notes: display data frm latest report
 
