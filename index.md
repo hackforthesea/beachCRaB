@@ -7,12 +7,10 @@ navigation_weight: 1
 Attention: This is a proof of concept site for Hack for the sea 2017. You can find more information here.
 https://devpost.com/software/beachcrab
 <br/>
-We all can do our part to make our beaches clean.
-<br />
-It's as simple as being a *C.R.a.B*!
+We all can do our part to make our beaches clean.It's as simple as being a *C.R.a.B*!
 <br/>
 Found Trash? Just TEXT us a description or image
-
+	
 ## 1-978-203-4217
 
 </center>
