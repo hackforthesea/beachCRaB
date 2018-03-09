@@ -11,9 +11,10 @@ We all can do our part to make our beaches clean.It's as simple as being a *C.R.
 <br/>
 </center>
 
-*Found Trash? Just TEXT us a description or picture*
-## 1-978-203-4217
+<br/>
+Found Trash? Just TEXT us a description or picture
 
+## 1-978-203-4217
 
 ## Latest Report
 
