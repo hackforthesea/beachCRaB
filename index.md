@@ -10,6 +10,11 @@ https://devpost.com/software/beachcrab
 We all can do our part to make our beaches clean.
 <br />
 It's as simple as being a *C.R.a.B*!
+<br/>
+Found Trash? Just TEXT us a description or image
+
+## 1-978-203-4217
+
 </center>
 
 ## Latest Report
